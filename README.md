@@ -13,3 +13,5 @@ I will be tracking my knowlage of Java by uploading some programs that I work on
 ![0_lKkGHVI5t-XlEfMD](https://user-images.githubusercontent.com/90480288/200414496-03270dd9-b065-4dfa-9c8c-841122067f5b.png)
 
 4. The fourth program is called CarsArray. This program was designed to practice using arrays. It takes the input of 7 cars and their prices and manipulates them printing a final list to the user. One thing could do in the future is alphabitcly sort the cars with two nested loops or a library. 
+
+5. The fifth program is A binary search program. this program itterates through a 1 dimentional array that is sorted by numerical value, and finds a deignated number within it.
